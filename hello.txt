@@ -1,4 +1,8 @@
 hello word
 hello word two
+<<<<<<< HEAD
 hello word three
 hellow word five
+=======
+hello word four
+>>>>>>> 3c1d9d424c346ffbbb06a2b201b62a33b39e74a6
